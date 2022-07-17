@@ -1,9 +1,9 @@
 # Robotframework-seleniumlibrary-webautomation
 
-## To run test case with a TAG:
+### To run test case with a TAG:
 
 ```sh
--robot -d results -i TC1 .\webui_test.robot
+-robot -d results -i [TAG] .\webui_test.robot
 ```
 
 ### Environment setup:
@@ -18,7 +18,7 @@
 | pandas                            | 1.4.3 |
 
 
-### Plugins
+### Plugins:
 
 Instructions on how to use them in your own application are linked below.
 
