@@ -25,4 +25,8 @@ Instructions on how to use them in your own application are linked below.
 | Plugin | Link |
 | ------ | ------ |
 | Intellibot | https://plugins.jetbrains.com/plugin/7386-intellibot |
-| Robot Framework Language Server | (https://plugins.jetbrains.com/plugin/16086-robot-framework-language-server) |
+| Robot Framework Language Server | https://plugins.jetbrains.com/plugin/16086-robot-framework-language-server |
+
+### Notes:
+- Thewords.xslx file is a spreadsheet file that contains product data.
+- The "results" directory contains all the screenshots/logs/reports of the test case.
